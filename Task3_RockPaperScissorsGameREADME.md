@@ -68,7 +68,7 @@ After each round:
 ## Game Logic
 
 * Computer randomly selects a choice
-* Winner is determined based on standard rules:
+* Winner is determined based on the standard rules:
 
   * Same choice → Tie
   * Winning combinations → User wins
