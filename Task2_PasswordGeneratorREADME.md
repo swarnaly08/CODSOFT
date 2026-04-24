@@ -9,7 +9,7 @@ A simple command-line password generator built using Python. It allows users to 
 * User-defined password length
 * Multiple complexity options
 * Random password generation
-* Supports letters, numbers, and special characters
+* Supports letters, numbers, special characters
 * Simple and interactive CLI
 
 ---
