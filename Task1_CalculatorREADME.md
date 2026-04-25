@@ -62,7 +62,7 @@ python calculator.py
 * Displays operation choices
 * Performs calculation based on selected option
 * Handles division by zero separately
-* Displays the final result
+* Displays final result
 
 ---
 
