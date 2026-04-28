@@ -52,7 +52,7 @@ python password.py
    * 1 → Only Letters
    * 2 → Letters + Numbers
    * 3 → Letters + Numbers + Special Characters
-3. The program generates and displays a random password
+3. The program generates and displays random password
 
 ---
 
